@@ -1,0 +1,22 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.icon {
+  height: 30px;
+  padding: auto;
+  margin: 5px;
+}
+
+/* .nav-extend {
+  background-color: rgb(255, 246, 233);
+  width: 100%;
+}
+
+.nav {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: rgb(255, 246, 233);
+  width: 1200px;
+} */
